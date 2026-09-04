@@ -1,0 +1,1 @@
+import"./t5oksyIQ.js";var t=globalThis.setInterval;export{t};
